@@ -3,7 +3,9 @@
 
 This repository holds all class material for the "Remote Sensing: physical basis and applications" graduate course, offered by the Graduate Program in Geography, UNESP-Rio Claro. 
 
-------
+
+
+
 
 **Lecture 1: Introduction to Remote Sensing / The Physical Basis of Remote Sensing**
 
